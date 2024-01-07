@@ -20,8 +20,6 @@ export class AppointmentComponent {
   isEditing = false;
   searchKeyword = '';
 
-  constructor() { }
-
   addAppointment(): void {
   }
 
